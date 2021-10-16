@@ -1,0 +1,3 @@
+[submodule "lmweb"]
+	path = lmweb
+	url = https://github.com/slashfoo/lmweb
