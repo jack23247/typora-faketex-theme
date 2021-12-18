@@ -4,6 +4,10 @@
 
 ---
 
+> ⚠️ **Notice** ⚠️
+> 
+> As you may know, Typora is now out of the beta prgogram and thus requires a fee. While the reason of this change (which was well documented on the developers' website) is clear, I have no interest in acquiring a license, thus this theme will be archived as of 18-DEC-2021.
+
 ![scrot.png](scrot.png)
 
 FakeTeX is a theme for Typora inspired by LaTeX's default output and based on the [Academic Theme](https://github.com/typora/typora-theme-gallery/blob/gh-pages/media/theme/academic/academic.zip). The theme comes in two variants, Roman and Sans, and uses the [Latin Modern](https://github.com/slashfoo/lmweb) family of fonts.
